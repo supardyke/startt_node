@@ -1,0 +1,11 @@
+{
+  "name": "nodeapp",
+  "version": "0.0.1",
+  "description": "my nodeapp to explain the whole flow of creating a nodejs app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "supardyke",
+  "license": "MIT"
+}
